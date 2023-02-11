@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevrant.com%2Fsearch%3Fterm%3Dwk233&psig=AOvVaw3G6_1V1Eo48Xu4-Tntk_30&ust=1676240551391000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiMwebAjv0CFQAAAAAdAAAAABBq"> </p>
+<img align="center" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevrant.com%2Fsearch%3Fterm%3Dwk233&psig=AOvVaw3G6_1V1Eo48Xu4-Tntk_30&ust=1676240551391000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiMwebAjv0CFQAAAAAdAAAAABBq">
 
 <h1 align="center">Hello! 👋, I'm Fio.</h1>
 <h3 align="center">I'm a Software Engineering Student in Costa Rica.</h3>

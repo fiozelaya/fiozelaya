@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgirl-on-the-computer-gifs&psig=AOvVaw1WmP9K0OjcZnWXXmbzIo7d&ust=1676317495923000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj65bnfkP0CFQAAAAAdAAAAABAE">
+<img align="center" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F645211084106433075%2F&psig=AOvVaw0xXvQpn_ANJlbD6FQDrHt8&ust=1676317550141000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODKmtPfkP0CFQAAAAAdAAAAABAq">
 
 <h1 align="center">Hello! 👋, I'm Fio.</h1>
 <h3 align="center">I'm a Software Engineering Student in Costa Rica.</h3>

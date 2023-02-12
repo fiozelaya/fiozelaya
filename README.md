@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://img.devrant.com/devrant/rant/r_3444455_Yb3Yg.gif">
+<img align="center" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgirl-on-the-computer-gifs&psig=AOvVaw1WmP9K0OjcZnWXXmbzIo7d&ust=1676317495923000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj65bnfkP0CFQAAAAAdAAAAABAE">
 
 <h1 align="center">Hello! 👋, I'm Fio.</h1>
 <h3 align="center">I'm a Software Engineering Student in Costa Rica.</h3>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fiozelaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiozelaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fiorella-zelaya-coto-3617b2204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiozelaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -2,12 +2,12 @@
 <h3 align="center">I'm a Software Engineering Student in Costa Rica.</h3>
 
 <h4 align="center"> I'm a very hard-working person who learns really fast! I enjoy challenges and love learning new technologies.
-I've proudly made some cool stuff along the way! I've worked with SQL and NoSQL databases, Unity and C# for game development, and various technologies for Web development.
+I've proudly made some cool stuff along the way! I've worked with SQL and NoSQL databases, Unity and C# for game development, and various technologies for Web development including the MERN stack.
 I also have some experience with other programming languages such as C++, Java and Python.
 </h4>
 
 
-- 🌱 I’m currently learning **about Databases, Game Development (Unity) and Web Development.**
+- 🌱 I’m currently learning **about DevOps and Web Development.**
 
 - 📫 How to reach me **fiorellazelaya.cr@gmail.com**
 
